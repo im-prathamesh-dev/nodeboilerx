@@ -1,0 +1,15 @@
+{
+  "name": "nodeboilerx",
+  "version": "1.0.5",
+  "description": "Interactive CLI tool to scaffold full-stack project structures for MERN or MEAN stacks in seconds.",
+  "main": "cli.js",
+  "bin": {
+    "nodeboilerx": "./cli.js"
+  },
+  "author": "Prathamesh Devrukhkar",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "nodeboilerx": "^1.0.1"
+  }
+}
