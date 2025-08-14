@@ -8,7 +8,7 @@ It’s designed to save you setup time so you can start coding instantly.
 ---
 
 ## 📹 Demo
-*(Replace with your GIF or screenshot if you have one)*
+
 
 ![NodeBoilerX Demo](https://res.cloudinary.com/dnowxuqbn/image/upload/v1755166228/nbx_ppchjh.png)
 
