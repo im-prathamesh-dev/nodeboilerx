@@ -1,12 +1,6 @@
 # NodeBoilerX 🚀
 
-[![npm version](https://img.shields.io/npm/v/nodeboilerx.svg)](https://www.npmjs.com/package/nodeboilerx)
-
-[![npm downloads](https://img.shields.io/npm/dt/nodeboilerx.svg)](https://www.npmjs.com/package/nodeboilerx)
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
-
-[![Node.js](https://img.shields.io/badge/node-%3E%3D14-green.svg)](https://nodejs.org)
+[![npm version](https://img.shields.io/npm/v/nodeboilerx.svg)](https://www.npmjs.com/package/nodeboilerx) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#license) [![Node.js](https://img.shields.io/badge/node-%3E%3D14-green.svg)](https://nodejs.org)
 
 **NodeBoilerX** is a simple Node.js CLI tool that helps you quickly scaffold backend projects with popular stacks like **MERN**, **MEAN**, or a basic **Node server**.  
 It’s designed to save you setup time so you can start coding instantly.
